@@ -8,6 +8,18 @@ O usuário pode adicionar nomes à lista, visualizar todos os amigos adicionados
 
 ---
 
+## 🖼️ Imagens do Projeto
+
+![Tela principal do Amigo Secreto](<img width="2515" height="901" alt="image" src="https://github.com/user-attachments/assets/44e5c6d2-3f53-4ef2-a8a0-17f5ee94523e" />
+)  
+*Tela principal onde é possível adicionar nomes.*
+
+![Sorteio realizado](<img width="2473" height="899" alt="image" src="https://github.com/user-attachments/assets/6edb480d-ba08-4526-b093-858a0db33dd1" />
+)  
+*Resultado do sorteio mostrando o amigo secreto escolhido.*
+
+---
+
 ## 🔗 Acesse a aplicação online
 
 [![GitHub Pages](https://img.shields.io/badge/Pages-blue?style=for-the-badge&logo)](https://victorsilva10.github.io/Jogo-do-amigo-secreto/)
