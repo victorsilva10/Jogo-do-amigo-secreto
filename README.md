@@ -18,7 +18,7 @@ O usuário pode adicionar nomes à lista, visualizar todos os amigos adicionados
 
 ## 📌 Funcionalidades
 
-- **Adicionar nome**: insira um nome no campo de texto e clique em *Adicionar* para incluí-lo na lista.
+- **Validação de entrada**: insira um nome no campo de texto e clique em *Adicionar* para incluí-lo na lista.
 - **Validação de entrada**: se o campo estiver vazio, o sistema exibe um alerta solicitando um nome válido.
 - **Lista de amigos**: exibe dinamicamente todos os nomes já adicionados.
 - **Sorteio aleatório**: escolhe um nome aleatoriamente e exibe o resultado na tela.
