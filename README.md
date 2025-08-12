@@ -10,12 +10,13 @@ O usuário pode adicionar nomes à lista, visualizar todos os amigos adicionados
 
 ## 🖼️ Imagens do Projeto
 
-![Tela principal do Amigo Secreto](<img width="2515" height="901" alt="image" src="https://github.com/user-attachments/assets/44e5c6d2-3f53-4ef2-a8a0-17f5ee94523e" />
-)  
+
+Tela principal do Amigo Secreto <img width="2515" height="901" alt="Captura de tela 2025-08-12 031706" src="https://github.com/user-attachments/assets/c1746df4-4e7e-4b65-a449-ad3da6d5f4a3" />
+
 *Tela principal onde é possível adicionar nomes.*
 
-![Sorteio realizado](<img width="2473" height="899" alt="image" src="https://github.com/user-attachments/assets/6edb480d-ba08-4526-b093-858a0db33dd1" />
-)  
+Sorteio realizado <img width="2473" height="899" alt="Captura de tela 2025-08-12 031816" src="https://github.com/user-attachments/assets/bb53694b-810e-4a3d-bcc9-4dfb9fee742e" />
+ 
 *Resultado do sorteio mostrando o amigo secreto escolhido.*
 
 ---
