@@ -10,7 +10,7 @@ O usuário pode adicionar nomes à lista, visualizar todos os amigos adicionados
 
 ## 🔗 Acesse a aplicação online
 
-[![GitHub Pages](https://victorsilva10.github.io/Jogo-do-amigo-secreto/)](https://github.com/victorsilva10/Jogo-do-amigo-secreto)
+[![GitHub Pages](https://victorsilva10.github.io/Jogo-do-amigo-secreto/GitHub-Pages-blue?style=for-the-badge&logo=github)](https://github.com/victorsilva10/Jogo-do-amigo-secreto)
 
 👉 [Clique aqui para abrir o Amigo Secreto](https://github.com/victorsilva10/Jogo-do-amigo-secreto)
 
